@@ -41,7 +41,7 @@ Execute the script: <br/>
 <img src="https://imgur.com/GP8Kynw.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
-Schedule the script: <br/>
+Schedule the script with Task Scheduler: <br/>
 <img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
