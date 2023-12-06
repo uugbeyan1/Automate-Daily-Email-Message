@@ -29,3 +29,20 @@ Generate an app password for email and save it to text document: <br/>
 <img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
+Securely store email app password: <br/>
+<img src="https://imgur.com/Mfrj0ni.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<br />
+<br />
+Update script with email app password: <br/>
+<img src="https://imgur.com/Q7ePLDV.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<br />
+<br />
+Execute the script: <br/>
+<img src="https://imgur.com/GP8Kynw.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<br />
+<br />
+Generate an app password for email and save it to text document: <br/>
+<img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<br />
+<br />
+
