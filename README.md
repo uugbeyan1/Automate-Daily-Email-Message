@@ -41,7 +41,13 @@ Execute the script: <br/>
 <img src="https://imgur.com/GP8Kynw.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
-Generate an app password for email and save it to text document: <br/>
+Schedule the script: <br/>
+<img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<br />
+<br />
+<img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<br />
+<br />
 <img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
