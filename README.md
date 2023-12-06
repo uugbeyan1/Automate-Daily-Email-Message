@@ -21,11 +21,11 @@ This repository contains a PowerShell script designed to automate the sending of
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Oracle Virtual Box and Install Windows 10 ISO/Server on the 1st Virtual Machine (Domain Controller): <br/>
-<img src="https://imgur.com/jGnqwdC.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+Prepare your script: <br/>
+<img src="https://imgur.com/UkSVZ6y.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
-Rename networks on the Domain Controller for Home Internet and Internal Network: <br/>
-<img src="https://imgur.com/JbOd4ia.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+Generate an app password for email and save it to text document: <br/>
+<img src="https://imgur.com/Frqzn01.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
